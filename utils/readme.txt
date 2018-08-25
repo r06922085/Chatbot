@@ -1,0 +1,12 @@
+data主要分為三步驟獲取
+第1步:
+打開file,一句句將train_data跟train_label append進去
+也就是load_data在做的事
+
+第2步:
+建立dictionary,出現頻率太少的字不列入dictionary
+也就是add_word在做的事
+
+第3步:
+將training data根據dictionary轉為index的形式.
+也就是buildTrainabledata在做的事
