@@ -23,6 +23,11 @@ Unlike the chatbot that was made by handcrafted, nerual based model is more flex
 
 -Cuda: v9.0
 
+## Download the training data and model file
+Due to some files are too large to put on the github, so a few of file need to be downloaded elsewhere before you train or test the Chatbot.
+# training data: https://drive.google.com/drive/u/0/folders/1y1CPl0OuLRRZp5AUkq-n8kLmq7y2mpKq
+# model file: https://drive.google.com/drive/u/0/folders/1LK0VTtMCxTGeZixtNhoIsll0BoVECld1
+
 ## Running
 #### Training:
 python main.py --train
