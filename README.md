@@ -25,7 +25,9 @@ Unlike the chatbot that was made by handcrafted, nerual based model is more flex
 
 ## Download the training data and model file
 Due to some files are too large to put on the github, so a few of file need to be downloaded elsewhere before you train or test the Chatbot.
+
 There are two repositories need download, utils and model_file, make sure you down it and push under the Chatbot repository.
+
 https://drive.google.com/drive/u/0/folders/1wOXf70ykQ_f8b_3Q1tcD0kbtXGyAdsI1
 
 ## Running
