@@ -1,9 +1,7 @@
 # Chatbot I made in the lecture's assignment about deep learning in National Taiwan univerasity(NTU)
 # 我在台大機器學習課堂實作的聊天機器人
 
-##
-##
-##
+
 ## Chatbot powered by deep learning
 Hand-craft based chatbot has been proved to its great performance for decades, like the early made chatbot, ELIZA, which was made from 1964 to 1966, has impressed the people by its human-like response. But it is hard to extend this kind of cahtbot to the wider domain due to a basic diffuculty, which is it needs developers to fully rule the every single response and we all know it is impossible. So maybe nerual network based model is a way out for more robust chatbot in the future!
 
